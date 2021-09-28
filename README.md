@@ -9,7 +9,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🖥️  I’m currently working for [alffie LMS](app.alffie.com)
+- 🖥️  I’m currently working for [alffie LMS](http://alffie.com)
 - 👓  Former Senior Team Leader at alffie
 - 📫  How to reach me **ivangarzoncruz@gmail.com**
 - ⚡   Fun fact **Speak spanish too**
