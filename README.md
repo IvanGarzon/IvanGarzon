@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hola, I'm Ivan Garzon (و ˃̵ᴗ˂̵)و<br>
-  <br>Frontend developer<br>
+  <br>Just a developer<br>
   <br>
 <!--     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
  </abc>
@@ -9,8 +9,6 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🖥️  I’m currently working for [alffie LMS](http://alffie.com)
-- 👓  Former Senior Team Leader at alffie
 - 📫  How to reach me **ivangarzoncruz@gmail.com**
 - ⚡   Fun fact **Speak spanish too**
 - 🎲  Role playing my own world
