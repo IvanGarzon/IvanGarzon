@@ -21,4 +21,4 @@
 
 <h2 align="left">Let's get in touch</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ivangarzoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangarzoncruz/)](https://www.linkedin.com/in/ivangarzoncruz/) [![Twitter Badge](https://img.shields.io/badge/-@lehenbizico-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lehenbizico)](https://twitter.com/lehenbizico)
+[![Linkedin Badge](https://img.shields.io/badge/-ivangarzoncruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivangarzoncruz/)](https://www.linkedin.com/in/ivangarzoncruz/) 
